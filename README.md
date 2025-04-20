@@ -12,6 +12,15 @@
 - Replacing the null values in income column with "df['income'].fillna('Not define', inplace=True)" in python.
 - Remove duplicate rows using .drop_duplicates() using python.
 
+## Tools used
+- Microsoft Excel
+- Python Jupyter Notebook
+
+## Author
+Shiv Kumar Paul
+
+Linkedin: www.linkedin.com/in/shiv-kumar-paul666
+
 
 
 
